@@ -1,1 +1,67 @@
-
+{
+  "project_info": {
+    "project_number": "706014426399",
+    "project_id": "family-61367",
+    "storage_bucket": "family-61367.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706014426399:android:8557f1169f1e56f1e32c2a",
+        "android_client_info": {
+          "package_name": "com.example.englishvocab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpKQUxkI0Lt3IvAMK9b6xYmJ9slxJEOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706014426399:android:38a13737b1fbcaace32c2a",
+        "android_client_info": {
+          "package_name": "com.example.ilbbangandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpKQUxkI0Lt3IvAMK9b6xYmJ9slxJEOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706014426399:android:2086123414a29fb8e32c2a",
+        "android_client_info": {
+          "package_name": "com.example.ilbbangreview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpKQUxkI0Lt3IvAMK9b6xYmJ9slxJEOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
